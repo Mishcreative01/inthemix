@@ -1361,85 +1361,14 @@ section.lazy-placeholder:after {
     margin-left: 0 !important;
   }
 }
-.cid-rHaskqtv3j {
-  padding-top: 0px;
-  padding-bottom: 75px;
-  background-color: #ffffff;
-}
-.cid-rHaskqtv3j .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rHaskqtv3j .container-table {
-  margin: 0 auto;
-}
-.cid-rHaskqtv3j .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-rHaskqtv3j .dataTables_wrapper {
-  display: block;
-}
-.cid-rHaskqtv3j .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-rHaskqtv3j .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-rHaskqtv3j table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cccccc;
-  margin-bottom: 0;
-}
-.cid-rHaskqtv3j table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-rHaskqtv3j table th:hover {
-  background: #cccccc;
-  color: #000000;
-}
-.cid-rHaskqtv3j table td {
-  border-top: 1px solid #cccccc;
-}
-.cid-rHaskqtv3j .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-rHaskqtv3j .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-rHaskqtv3j .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-rHaskqtv3j .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-rHaskqtv3j .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-rHaskqtv3j .dataTables_filter {
-    text-align: center;
-  }
-  .cid-rHaskqtv3j .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
+.cid-rIWKecXOAn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/457934-1920x1080.jpg");
 }
 .cid-rHatBky0z9 {
-  padding-top: 0px;
-  padding-bottom: 75px;
+  padding-top: 30px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-rHatBky0z9 .mbr-section-subtitle {
