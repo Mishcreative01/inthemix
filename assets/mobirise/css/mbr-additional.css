@@ -2201,6 +2201,32 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
+.cid-rL9Qo3fyPr {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #000000;
+}
+.cid-rL9Qo3fyPr .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rL9Qo3fyPr .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rL9Qo3fyPr .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rL9Qo3fyPr .mbr-text {
+    text-align: center;
+  }
+}
 .cid-rHEkPvmUuy {
   padding-top: 90px;
   padding-bottom: 90px;
